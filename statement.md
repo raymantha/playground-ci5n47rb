@@ -4,6 +4,7 @@ This Python template lets you get started quickly with a simple one-page playgro
 
 ```python runnable
 print('Hello World!')
+print('my first python script')
 ```
 
 # Advanced usage
